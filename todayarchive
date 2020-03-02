@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="">
+	<meta name="author" content="">
+	
+	<title>CO302 Writing in Digital Environments</title>
+	
+	<!-- Bootstrap core CSS -->
+	<link href="assets/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+	
+	<!-- Plugins -->
+	<link href="assets/css/simpletextrotator.css" rel="stylesheet">
+	<link href="assets/css/font-awesome.min.css" rel="stylesheet">
+	<link href="assets/css/et-line-font.css" rel="stylesheet">
+	<link href="assets/css/magnific-popup.css" rel="stylesheet">
+	<link href="assets/css/flexslider.css" rel="stylesheet">
+	<link href="assets/css/animate.css" rel="stylesheet">
+	
+	<!-- Template core CSS -->
+	<link href="assets/css/style.css" rel="stylesheet">
+	
+	<!-- Custom css -->
+	<link href="assets/css/custom.css" rel="stylesheet">
+</head>
+<body>
+
+	<!-- PRELOADER -->
+	<div class="page-loader">
+		<div class="loader">Loading...</div>
+	</div>
+	<!-- /PRELOADER -->
+
+<!-- NAVIGATION -->
+	<nav class="navbar navbar-custom navbar-transparent navbar-fixed-top" role="navigation">
+
+			<div class="container">
+		
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#custom-collapse">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<a class="navbar-brand" href="index.html">CO302</a>
+				</div>
+		
+				<div class="collapse navbar-collapse" id="custom-collapse">
+		
+					<ul class="nav navbar-nav navbar-right">
+		
+						<li><a href="index.html">Home</a></li>
+		
+						<li><a href="syllabus.html">syllabus</a></li>
+						
+						<li class="dropdown">
+							<a href="wk1.html" class="dropdown-toggle" data-toggle="dropdown">Today</a>
+							<ul class="dropdown-menu" role="menu">
+		
+								<li class="dropdown">
+									<a href="mwf.html">Today MWF</a>
+									<a href="todayarchive.html">Archive</a>
+									
+								</li>
+		
+							</ul>
+						</li>
+		
+						<li class="dropdown">
+							<a href="readings.html" class="dropdown-toggle" data-toggle="dropdown">Readings</a>
+							<ul class="dropdown-menu" role="menu">
+		
+								<li class="dropdown">
+									<a href="https://docs.google.com/document/d/1X7P76NANIKD57k44ysqj4vcB9itQV9ZCJCKRoU9Vqy0/edit?usp=sharing" target="_blank">Full List</a>
+									<a href="wk1.html">Weeks 1-6</a>
+									<a href="wk7.html">Weeks 7-12</a>
+									<a href="wk13.html">Weeks 13-16</a>
+									
+								</li>
+		
+							</ul>
+						</li>
+		
+						<li class="dropdown">
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown">Assignments</a>
+							<ul class="dropdown-menu" role="menu">
+								
+							<li><a href="instigators.html">Instigators</a></li>
+								
+								<li><a href="https://docs.google.com/document/d/1ui8FR3BIT9FyGldIumduFYYTPySaKV70p0BFE2FVzDo/edit?usp=sharing"  target="_blank">A1: Analysis</a></li>
+		
+								<li><a href="https://docs.google.com/document/d/1_GwfYrlNz-TfM6M0Q_aqWIcQ04mexvEbKb1Zh6C3YOA/edit?usp=sharing"  target="_blank">A2: Website</a></li>
+		
+								<li><a href="https://docs.google.com/document/d/1stn9p4U8ZJr1YDQhfHdkofRUovr2fiREdFe08wRaZzQ/edit?usp=sharing"  target="_blank">A3: Propose & Plan</a></li>
+								
+								<li class="dropdown">
+									<a href="https://docs.google.com/document/d/1VPWFlfe7Jqw1TXnBpamBOqkoQnYCkruih53DbFbPukk/edit?usp=sharing" class="dropdown-toggle" data-toggle="dropdown">A4: Long Form</a>
+									<ul class="dropdown-menu">
+										<li><a href="https://docs.google.com/document/d/1VPWFlfe7Jqw1TXnBpamBOqkoQnYCkruih53DbFbPukk/edit?usp=sharing"  target="_blank">Project</a></li>
+										<li><a href="https://docs.google.com/document/d/1FnLKiri-ltA8tk9z8LvgsIbAIHMX9c0zTrrl9bE4ZyY/edit?usp=sharing"  target="_blank">Presentation</a></li>
+									</ul>
+								</li>
+								
+								<li><a href="syllabus.html#other">Others</a></li>
+		
+							</ul>
+						</li>
+		
+						<li><a href="resources.html">Resources</a></li>
+		
+						<li><a href="contact.html">Contact</a></li>
+		
+					</ul>
+				</div>
+		
+			</div>
+
+	</nav>
+	<!-- /NAVIGATION -->
+<!-- WRAPPER -->
+	<div class="wrapper">
+
+		<!-- HOME -->
+		<section class="module module-header bg-dark bg-dark-50" data-background="assets/images/section-9.jpg">
+
+			<div class="container">
+
+				<!-- MODULE TITLE -->
+				<div class="row">
+
+					<div class="col-sm-8 col-sm-offset-2">
+
+						<h1 class="module-title font-alt align-center">Today Archive</h1>
+
+						<div class="module-subtitle font-inc align-center">
+							<div class="post-meta font-inc">
+									A scrappy link-dump of past weeks' "Today" pages.								
+								</br></br>
+							
+						
+							</div>
+						</div>
+
+					</div>
+
+				</div>
+				<!-- /MODULE TITLE -->
+
+			</div>
+
+		</section >
+		<!-- /HOME -->
+
+		<!-- BLOG SINGLE -->
+		<section class="module">
+
+			<div class="container">
+
+				<div class="row">
+
+					<div class="col-sm-8 col-sm-offset-2">
+
+						<!-- POST -->
+						<div class="post">
+
+					
+							<div class="post-entry">
+								
+								<h1>Archive of Past "Today" Page Links</h1>
+								
+									
+                  <h2>Links from Week 6</h2>
+                  <ul>
+										<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSceLhLTjsLqOaxP6E8tOuSmgEV4Ra4cwOomphI9YCiKOa5Gug/viewform?usp=sf_link" target="_blank"><u>Website Lightning Round: Part 1</u></a></li>
+										<li><a href="https://docs.google.com/document/d/1Sq0byJlKyY50XzDiJYmv1TR7dTFeW1Ldhp9TE_oAcT0/edit?usp=sharing" target="_blank"><u>Website Lightning Round: Part 2</u></a></li>
+										<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfTRi639bpLenaX8f_nd7VX-MTMJfVEdTDzefB2p2nitJ8a9g/viewform?usp=sf_link" target="_blank"><u>Vote on Instigators</u></a></li>
+										<li><a href="https://docs.google.com/document/d/1R-pnbNw7JoGJrzfMMrR3VThSVEynlg5P5oVSWkr5Mw4/edit?usp=sharing" target="_blank"><u>Website from Scratch</u></a></li>
+										<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSebKlAYus2tsETsFujtzspl4m63jVN3r4C8WoHkROfYtYtQUg/viewform?usp=sf_link" target="_blank"><u>Link Submission and Reflection</u></a> Here, if you finish early, take a moment to reflect on the two "optional" questions here.</li>
+										<li><a href="https://www.w3schools.com/html/html_css.asp" target="_blank"><u>CSS: Inline, Internal, and External</u></a></li>
+										<li><a href="https://docs.google.com/presentation/d/1yL6RrgTTU__WLWfmFn8IgG_Com1r8o6uqmKkD_gT3M4/edit?usp=sharing" target="_blank"><u>Slides for Week 5/6</u></a></li>
+
+									</ul>
+								
+								<h2>Links from Week 5</h2>
+									<ul> 
+										<li><a href="https://docs.google.com/forms/d/e/1FAIpQLScv-VIt8-N-AC8vzywwYF0Dm3seHCJ4eaENZ1-laJKRK4lfhA/viewform?usp=sf_link" target="_blank"><u>Vote on Instigators</u></a></li>
+										<li><a href="https://docs.google.com/forms/d/e/1FAIpQLScOrV0uU9Pu9GQnS-IqDj6JD6YrKmAa7gwtgH40mXeFVNxsYg/viewform?usp=sf_link" target="_blank"><u>In-Class Writing</u></a></li>
+										<li><a href="https://docs.google.com/document/d/1NoVPTeYzIP9xIUL8OFQXt_oSP3o4jW9auh73W01Tdvk/edit?usp=sharing" target="_blank"><u>For Friday: Scavenger Hunt with Bootstrap Templates</u></a></li>
+										<li><a href="https://docs.google.com/document/d/1RHcXSViAEjxH3oqilkGMk_FG04flwZ23sc9HeJ1wJoE/edit?usp=sharing" target="_blank"><u>Website Whiteboarding</u></a></li>
+										<li><a href="https://www.w3schools.com/css/css_intro.asp" target="_blank"><u>CSS Demonstration</u></a></li>
+										<li><a href="https://www.w3schools.com/html/default.asp" target="_blank"><u>W3 Schools HTML Resources</u></a></li>
+										<li><a href="https://docs.google.com/presentation/d/1yL6RrgTTU__WLWfmFn8IgG_Com1r8o6uqmKkD_gT3M4/edit?usp=sharing" target="_blank"><u>Slides for Week 5/6</u></a></li>
+								</ul>
+								
+								
+								<h2>Readings for Week 6</h2>
+							
+								<p>This week we'll continue our coding practice while also exploring issues surrounding copyright & intellectual property.</p>
+								<h3>Readings for the week...</h3>
+								<ul>
+									<li>Lessig's TED Talk: <a href="https://www.ted.com/talks/larry_lessig_says_the_law_is_strangling_creativity"><u>“Laws that Choke Creativity”</u></a></li>
+									<li>Skim and read one section of <a href="http://technorhetoric.net/24.1/topoi/amidon-et-al/index.html" target="_blank"><u>Amidon et. al. Copyright, Content, and Control</u></a>: Choose one section of the "Platforms" section (either Turnitin, Twitter, or Canvas) to explore in more details.</li>
+									<li>No additional readings; continue working towards A2</li>
+								</ul>							
+							
+					
+								<hr>
+							
+						
+						
+					
+								
+							</div>
+
+						</div>
+						<!-- /POST -->
+
+
+					</div>
+
+				</div>
+
+			</div>
+
+		</section>
+		<!-- /BLOG SINGLE -->
+
+		<!-- DIVIDER -->
+		<hr class="divider-w">
+		<!-- /DIVIDER -->
+
+
+		
+		<!-- CONTACT -->
+		<section class="module-small">
+		
+			<div class="container">
+		
+				<div class="row">
+		
+					<!-- CONTENT BOX -->
+					<div class="col-sm-4">
+						<div class="content-box">
+							<div class="content-box-icon">
+								<span class="icon-map-pin"></span>
+							</div>
+							<div class="content-box-title font-inc">
+								Instructor Office: 325 Eddy Hall
+							</div>
+						</div>
+					</div>
+					<!-- /CONTENT BOX -->
+		
+					<!-- CONTENT BOX -->
+					<div class="col-sm-4">
+						<div class="content-box">
+							<div class="content-box-icon">
+								<span class="icon-clock"></span>
+							</div>
+							<div class="content-box-title font-inc">
+								Mondays & Wednesdays, 2-3:30pm (and by appointment)
+							</div>
+						</div>
+					</div>
+					<!-- /CONTENT BOX -->
+		
+					<!-- CONTENT BOX -->
+					<div class="col-sm-4">
+						<div class="content-box">
+							<div class="content-box-icon">
+								<span class="icon-envelope"></span>
+							</div>
+							<div class="content-box-title font-inc">
+								laura.price@colostate.edu
+							</div>
+						</div>
+					</div>
+					<!-- /CONTENT BOX -->
+		
+				</div>
+		
+			</div>
+		
+		</section>
+		<!-- /CONTACT -->
+
+		<!-- FOOTER -->
+		<footer class="footer">
+		
+			<div class="container">
+		
+				<div class="row">
+		
+					<div class="col-sm-12 text-center">
+						<p class="copyright font-inc m-b-0">© 2019 <a href="index.html">LAURA PRICE HALL</a>, All Rights Reserved.</p>
+					</div>
+		
+				</div>
+		
+			</div>
+		
+		</footer>
+		<!-- /FOOTER -->
+
+	</div>
+	<!-- /WRAPPER -->
+
+	<!-- Scroll-up -->
+	<div class="scroll-up">
+		<a href="#totop"><i class="fa fa-angle-double-up"></i></a>
+	</div>
+	
+	<!-- Javascript files -->
+	<script src="assets/js/jquery-2.1.3.min.js"></script>
+	<script src="assets/bootstrap/js/bootstrap.min.js"></script>
+	<script src="assets/js/jquery.mb.YTPlayer.min.js"></script>
+	<script src="assets/js/appear.js"></script>
+	<script src="assets/js/jquery.simple-text-rotator.min.js"></script>
+	<script src="assets/js/jqBootstrapValidation.js"></script>
+	<script src="http://maps.google.com/maps/api/js?sensor=true"></script>
+	<script src="assets/js/gmaps.js"></script>
+	<script src="assets/js/isotope.pkgd.min.js"></script>
+	<script src="assets/js/imagesloaded.pkgd.js"></script>
+	<script src="assets/js/jquery.flexslider-min.js"></script>
+	<script src="assets/js/jquery.magnific-popup.min.js"></script>
+	<script src="assets/js/jquery.fitvids.js"></script>
+	<script src="assets/js/smoothscroll.js"></script>
+	<script src="assets/js/wow.min.js"></script>
+	<script src="assets/js/contact.js"></script>
+	<script src="assets/js/custom.js"></script>
+
+</body>
+</html>
